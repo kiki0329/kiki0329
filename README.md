@@ -4,8 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kiruthika+(Kiki)+%F0%9F%91%8B;Physics+Grad+turned+Data+Scientist;ML+%7C+Gen+AI+%2F+RAG+%7C+Web+Dev+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Working on laptop gif -->
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="280" alt="curious tech geek gif"/>
-<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="280" alt="she codes gif"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="280" alt="work with coffee gif"/>
 
 </div>
 
