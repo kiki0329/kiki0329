@@ -5,6 +5,7 @@
 
 <!-- Working on laptop gif -->
 <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" width="280" alt="deep thinking gif"/>
+<img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="280" alt="girl doing webdev gif"/>
 
 </div>
 
