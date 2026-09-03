@@ -3,6 +3,9 @@
 <!-- Typing animation header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kiruthika+(Kiki)+%F0%9F%91%8B;Physics+Grad+turned+Data+Scientist;ML+%7C+Gen+AI+%2F+RAG+%7C+Web+Dev+%F0%9F%9A%80" alt="Typing SVG" />
 
+<!-- Working on laptop gif -->
+<img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="280" alt="working on laptop gif"/>
+
 </div>
 
 <br>
